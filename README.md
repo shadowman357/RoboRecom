@@ -1,3 +1,5 @@
+Current Status: Beta patch is 95% project completion.  Game is fully playable start to finish.
+
 Robotrek Recombined - An SNES Game modding project
 
 What started as an attempt to learn SNES programming and make a basic hard-type hack of the game has morphed into a much larger project.
