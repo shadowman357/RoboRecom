@@ -1,4 +1,5 @@
-Current Status: Beta patch is 95% project completion.  Game is fully playable start to finish.
+Current Status: Beta patch is 98% project completion.  Game is fully playable start to finish.
+98% release now contains two versions - Hard Type and Content - See descriptions on release page
 
 Robotrek Recombined - An SNES Game modding project
 
