@@ -1,5 +1,5 @@
-Current Status: Beta patch is 98% project completion.  Game is fully playable start to finish.  
-98% release now contains two versions - Hard Type and Content - See descriptions on release page
+Current Status: Final Version 1.0 Released!  
+Final release contains two versions - Hard Type and Content - See descriptions on release page
 
 Robotrek Recombined - An SNES Game modding project
 
@@ -16,6 +16,5 @@ This game was a huge favorite of mine as a kid and my interest in programming in
 --- ASM changes and custom code to alter the mechanics of the game
 
 This project has been challenging, and a blast to work on.  An incredible amount of thanks goes out to MissWitchy, a family member and #1 collaborator.
-At this point I'm trying to decide between looking for more testing volunteers, or just releasing the game.  If anyone is interested in testing, let me know!
 
 Apply IPS patch to a headered ROM such as Robotrek (USA).sfc or .smc.  File size: 1,572,864 bytes
