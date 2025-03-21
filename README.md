@@ -1,3 +1,5 @@
+Update 3-21-25 : A small bug has been found - to open battle capsules, be sure to attack them using the L/R shoulder buttons.  Choosing a weapon from the battle menu doesn't work.  This is being investigated and will be corrected!  This only affects opening battle capsules and nothing else.
+
 Current Status: Final Version 1.0 Released!  
 Final release contains two versions - Hard Type and Content - See descriptions on release page
 
